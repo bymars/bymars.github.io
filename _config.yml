@@ -73,3 +73,6 @@ friends: [
         href: "bymars.github.io"
     }
 ]
+
+# Image Server
+img_baseurl: http://ob2ez1pp5.bkt.clouddn.com
