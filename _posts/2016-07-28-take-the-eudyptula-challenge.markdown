@@ -1,10 +1,14 @@
 ---
 layout: post
 title:  "Eudyptula Challenge - Welcome"
+subtitle:   "从Hello World到内核贡献者"
+author: bymars
 date:   2016-07-28 12:38:02 +0800
 categories: jekyll update
-tags: Linux Kernel
+tags: 
+    - Linux Kernel
 ---
+
 [Eudyptula Challenge][Eudyptula-Challenge]是由一名匿名黑客发起的Linux内核挑战，一共有20个从易到难的任务，全部完成后就可以成为内核的贡献者。 发起人说通过完成挑战可以较好的了解整个内核贡献过程的运作情况，甚至成为*maintainer of a subsystem*。 如果要参加挑战，需要向 `little at eudyptula-challenge.org` 发送一封邮件。
 
 注意事项：
